@@ -3,3 +3,4 @@ dataset/train/
 dataset/val/
 dataset/classes.txt
 anpr_yolo_v5/
+np/
